@@ -21,5 +21,3 @@ elif max(Rooms) >=T:
 elif T > T_Stewie:
     # Close Stewies blind here
     print("Stewie's blind closed")
-elif T > T:
-    print('This is here to stop errors lmaooooooooooooooooooooooooooooooooo')
